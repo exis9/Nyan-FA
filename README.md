@@ -9,7 +9,7 @@ Compatible with WinAuth and Google Authenticator.
 
 
 # Security Warning?
-For Windows users, since it is not a registered on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
+For Windows users, since it is not a registered app on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
 
 
 ## Mac is unfair for freeware developpers!

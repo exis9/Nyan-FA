@@ -19,8 +19,12 @@ If you get a security warning and can't launch this app, follow the simple steps
 After installation, just launch the app. If you have a security warning and can't launch it, do this:
 (This is required only one time. Next time, Apple won't annoy you)
 
+<img width="302" height="267" alt="Mac Not Opened Problem" src="https://github.com/user-attachments/assets/95864ee1-b552-4c50-915a-4919846b0412" />
+
+
 ```
-1. Go to Settings and click "Privacy & Security"
+1. Go to System Settings and click "Privacy & Security"
 2. Click "Open Anyway"
 ```
-<img width="1446" height="1278" alt="How to open freeware app on Mac" src="https://github.com/user-attachments/assets/445b85f6-12e4-4263-aaba-ee07d0abcb46" />
+<img width="723" height="632" alt="MacNyanFAOpen" src="https://github.com/user-attachments/assets/ada84b63-bf2e-47c4-bcb0-6c84c108993c" />
+

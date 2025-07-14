@@ -9,7 +9,30 @@ Compatible with WinAuth and Google Authenticator.
 
 <img width="354" height="640" alt="WinAuth for Mac: Nyan-FA. Nyan-FA is Otp Manager and Google Authenticator Alternative" src="https://github.com/user-attachments/assets/becfcce4-de5e-42f6-aa41-b17a279b52cf" />
 
+# SPECs
+```
+🩷 Features of Nyan-FA
 
+🛜 Compatible with WinAuth (settings can be shared between both)
+
+🛜 Wallpaper Customization
+
+🛜 QR code integration with apps like Google Authenticator
+
+🛜 Scan from QR codes
+
+🛜 Thousands of icons and post-editing options
+
+🛜 Even more convenient when login page URLs are also registered!
+
+🛜 Extremely strong and secure protection
+
+🛜 App password lock supported
+
+🛜 100% free, unlimited use, and works offline
+
+🛜 Supports SHA1, SHA256, and SHA512, with up to 10-digit code generation
+```
 
 # Security Warning?
 For Windows users, since it is not a registered app on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.

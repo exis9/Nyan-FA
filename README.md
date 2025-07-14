@@ -7,7 +7,8 @@ Compatible with WinAuth and Google Authenticator.
 
 <img width="343" height="644" alt="NyanFA 2FA Authenticator for Mac. WinAuth Alternative" src="https://github.com/user-attachments/assets/0efe9952-ee1a-4f2a-a3cf-39b49a73e7de" />
 
-<img width="354" height="640" alt="WinAuth for Mac: Nyan-FA. Nyan-FA is Otp Manager and Google Authenticator Alternative" src="https://github.com/user-attachments/assets/becfcce4-de5e-42f6-aa41-b17a279b52cf" />
+<img width="371" height="649" alt="WinAuth for Mac: Nyan-FA. Nyan-FA is Otp Manager and Google Authenticator Alternative" src="https://github.com/user-attachments/assets/bce54350-ccb6-4a53-88f1-55d49f720311" />
+
 
 # SPECs
 ```

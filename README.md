@@ -3,6 +3,7 @@
 A 100% Free Amazing 2FA app for Mac and Windows!
 Compatible with WinAuth and Google Authenticator.
 
+## [✅️ For Windows: Download Ver 1.00 (exe)](https://github.com/exis9/Nyan-FA/releases/download/v1.0.0(Windows)/Nyan-FA.1.0.0.exe)
 ## [✅️ For Mac: Download Ver 1.00 (dmg)](https://github.com/exis9/Nyan-FA/releases/download/v1.0.0(Mac)/Nyan-FA-1.0.0.dmg)
 
 <img width="343" height="644" alt="NyanFA 2FA Authenticator for Mac. WinAuth Alternative" src="https://github.com/user-attachments/assets/0efe9952-ee1a-4f2a-a3cf-39b49a73e7de" />
@@ -11,27 +12,27 @@ Compatible with WinAuth and Google Authenticator.
 
 # SPECs
 ```
-🩷 Features of Nyan-FA 🩷
+✴️ Features of Nyan-FA ✴️
 
-🛜 Compatible with WinAuth (settings can be shared between both)
+✅️ Compatible with WinAuth (settings can be shared between both)
 
-🛜 Wallpaper Customization
+✅️ Wallpaper Customization
 
-🛜 QR code integration with apps like Google Authenticator
+✅️ QR code integration with apps like Google Authenticator
 
-🛜 Scan from QR codes
+✅️ Scan from QR codes
 
-🛜 Thousands of icons and post-editing options
+✅️ Thousands of icons and post-editing options
 
-🛜 Even more convenient when login page URLs are also registered!
+✅️ Even more convenient when login page URLs are also registered!
 
-🛜 Extremely strong and secure protection
+✅️ Extremely strong and secure protection
 
-🛜 App password lock supported
+✅️ App password lock supported
 
-🛜 100% free, unlimited use, and works offline
+✅️ 100% free, unlimited use, and works offline
 
-🛜 Supports SHA1, SHA256, and SHA512, with up to 10-digit code generation
+✅️ Supports SHA1, SHA256, and SHA512, with up to 10-digit code generation
 ```
 
 # Security Warning?

@@ -11,7 +11,7 @@ Compatible with WinAuth and Google Authenticator.
 
 # SPECs
 ```
-🩷 Features of Nyan-FA
+🩷 Features of Nyan-FA 🩷
 
 🛜 Compatible with WinAuth (settings can be shared between both)
 

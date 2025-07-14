@@ -1,4 +1,4 @@
-# Download (Exis WebP Stars)
+# Download (Nyan-FA)
 
 A 100% Free Amazing 2FA app for Mac and Windows!
 Compatible with WinAuth and Google Authenticator.

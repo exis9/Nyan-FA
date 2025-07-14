@@ -16,4 +16,4 @@ After installation, just launch the app. If you have a security warning and can'
 1. Go to Settings and click "Privacy & Security"
 2. Click "Open Anyway"
 
-<img width="1446" height="1278" alt="MacUnfair" src="https://github.com/user-attachments/assets/445b85f6-12e4-4263-aaba-ee07d0abcb46" />
+<img width="1446" height="1278" alt="How to open freeware app on Mac" src="https://github.com/user-attachments/assets/445b85f6-12e4-4263-aaba-ee07d0abcb46" />

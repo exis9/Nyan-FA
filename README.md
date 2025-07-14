@@ -37,7 +37,7 @@ Compatible with WinAuth and Google Authenticator.
 # Security Warning?
 
 ## Windows is a bit annoying! (but not that much)
-For Windows users, since it is not a registered app on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and launch it.
+For Windows users, since it is not a registered app on the Microsoft Store, a security warning will appear only the first time you launch it, but there is no risk, so if the warning appears, just click "More Info" and choose "Run Anyway".
 
 <img width="450" height="208" alt="windows-defender Microsoft" src="https://github.com/user-attachments/assets/c774799d-3b4c-4916-9e24-0ee20f649415" />
 

@@ -51,9 +51,9 @@ Windowsユーザーの場合、Nyan-FAはMicrosoftストアに登録していな
 <img width="450" height="208" alt="windows-defender Microsoft" src="https://github.com/user-attachments/assets/c774799d-3b4c-4916-9e24-0ee20f649415" />
 
 
-### Macをご利用の場合
+### Macをご利用の場合（Appleの強欲さと戦う方法）
 
-私はフリーソフト作者なので、Appleに毎年99ドルもの開発者費用を支払っていません。そのためAppleの強欲さによりMacではセキュリティ許可を与えないとこのアプリを起動できません。
+私はフリーソフト作者なので、Appleに毎年99ドルもの開発者費用を支払っていません。Appleは献金しないソフトウェア作者の作品は普通に排除しようとしてくるので、Macではセキュリティ許可を与えないとこのアプリを起動できません。
 
 セキュリティ警告が表示されてアプリを起動できない場合は、以下の簡単な手順に従ってください。
 
@@ -61,7 +61,6 @@ Windowsユーザーの場合、Nyan-FAはMicrosoftストアに登録していな
 （この操作は初回のみ必要です。次回からはAppleといえどももはやあなたを邪魔することはありません。）
 
 <img width="302" height="267" alt="Mac Not Opened Problem" src="https://github.com/user-attachments/assets/95864ee1-b552-4c50-915a-4919846b0412" />
-
 
 ```
 1. システム設定を開き、「プライバシーとセキュリティ」をクリックします。

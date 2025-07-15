@@ -1,3 +1,18 @@
+const g_ver = '1.03';
+// 1.02とかを1.0.2、みたいに、１桁ごとにドットを入れて変換する
+const g_dVer = g_ver.replace('.', '').split('').join('.');
+const winLink = `https://github.com/exis9/Nyan-FA/releases/download/v${g_ver}(Windows)/Nyan-${g_dVer}.exe`;
+const macLink = `https://github.com/exis9/Nyan-FA/releases/download/v${g_ver}(Mac)/Nyan-FA-${g_dVer}.dmg`;
+
+const elVWin = document.getElementById('idV_win'), elVMac = document.getElementById('idV_mac');
+let h_vWin = elVWin.innerHTML.replace('1.03', g_ver), 
+    h_vMac = elVMac.innerHTML.replace('1.03', g_ver);
+elVWin.innerHTML = h_vWin
+elVMac.innerHTML = h_vMac
+
+elVWin.querySelector('a').href = winLink; //elVWinのhrefをwinLinkに置き換える
+elVMac.querySelector('a').href = macLink; //elVMacのhrefをmacLinkに置き換える
+
 let h = `
 <div class="cLangSelCont">
 <select class="cSelLang">
@@ -25,7 +40,10 @@ let h = `
 // prepend h to the body
 document.body.insertAdjacentHTML('afterbegin', h);
 
-document.querySelector('.cSelLang').addEventListener('change', function() {
-  let lang = this.value
-  window.location.href = `https://exis9.github.io/Nyan-FA/langs/${lang}.html`
-});
+// envents
+{
+    document.querySelector('.cSelLang').addEventListener('change', function() {
+    let lang = this.value
+    window.location.href = `https://exis9.github.io/Nyan-FA/langs/${lang}.html`
+    })
+}

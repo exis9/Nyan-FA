@@ -1,4 +1,4 @@
-[<small>Japanese(日本語)</small>](https://exis9.github.io/Nyan-FA/ja.html)
+[<small>Japanese(日本語)</small>](https://exis9.github.io/Nyan-FA/langs/ja.html)
 
 # Download (Nyan-FA)
 

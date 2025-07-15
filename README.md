@@ -1,6 +1,6 @@
 <details>
-<summary><b>Languages</b> (Translated Documents)</summary>
-  
+<summary><b><img width="20" height="20" alt="translate" src="https://github.com/user-attachments/assets/3fdd06d6-0bf8-4144-bea5-00950619972c" /> Languages</b> (Translated Documents)</summary>
+
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/en.html" target=_blank><small>English</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ja.html" target=_blank><small>Japanese(日本語)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/zh.html" target=_blank><small>Simplified Chinese(简体中文)</small></a></p>

@@ -1,4 +1,12 @@
-[<small>Japanese(日本語)</small>](https://exis9.github.io/Nyan-FA/langs/ja.html)
+<details>
+<summary><b>Languages</b> (Translated Documents)</summary>
+  
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/en.html" target=_blank><small>English</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ja.html" target=_blank><small>Japanese(日本語)</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/zh.html" target=_blank><small>Simplified Chinese(简体中文)</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/fr.html" target=_blank><small>French(Français)</small></a></p>
+  
+</details>
 
 # Download (Nyan-FA)
 

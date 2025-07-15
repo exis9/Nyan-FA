@@ -1,7 +1,7 @@
 const g_ver = '1.03';
 // 1.02とかを1.0.2、みたいに、１桁ごとにドットを入れて変換する
 const g_dVer = g_ver.replace('.', '').split('').join('.');
-const winLink = `https://github.com/exis9/Nyan-FA/releases/download/v${g_ver}(Windows)/Nyan-${g_dVer}.exe`;
+const winLink = `https://github.com/exis9/Nyan-FA/releases/download/v${g_ver}(Windows)/Nyan-FA.${g_dVer}.exe`;
 const macLink = `https://github.com/exis9/Nyan-FA/releases/download/v${g_ver}(Mac)/Nyan-FA-${g_dVer}.dmg`;
 
 const elVWin = document.getElementById('idV_win'), elVMac = document.getElementById('idV_mac');

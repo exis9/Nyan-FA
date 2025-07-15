@@ -22,10 +22,10 @@ let h = `
 <option value="id">Indonesian - Bahasa Indonesia</option>
 </select>
 </div>`
-// append h to the body
-document.body.insertAdjacentHTML('beforeend', h)
+// prepend h to the body
+document.body.insertAdjacentHTML('afterbegin', h);
 
 document.querySelector('.cSelLang').addEventListener('change', function() {
   let lang = this.value
-  window.location.href = `https://nyan-fa.com/langs/${lang}.html`
+  window.location.href = `https://exis9.github.io/Nyan-FA/langs/${lang}.html`
 });

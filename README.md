@@ -7,6 +7,7 @@
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/es.html" target=_blank><small>Spanish(Español)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/pt.html" target=_blank><small>Portuguese(Português)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/fr.html" target=_blank><small>French(Français)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/de.html" target=_blank><small>German(Deutsch)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/nl.html" target=_blank><small>Dutch(Nederlands)</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/it.html" target=_blank><small>Italian(Italiano)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ru.html" target=_blank><small>Russian(Русский)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ar.html" target=_blank><small>Arabic(عربي)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/hi.html" target=_blank><small>Hindi(हिन्दी)</small></a></p>

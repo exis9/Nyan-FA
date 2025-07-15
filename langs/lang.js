@@ -40,10 +40,15 @@ let h = `
 // prepend h to the body
 document.body.insertAdjacentHTML('afterbegin', h);
 
+// 現在のURLで、ファイル名がja.htmlとかならcSelLangのvalueはjaにする
+let currentLang = window.location.pathname.split('/').pop().split('.')[0];
+document.querySelector('.cSelLang').value = currentLang;
+
+
 // envents
 {
     document.querySelector('.cSelLang').addEventListener('change', function() {
-    let lang = this.value
-    window.location.href = `https://exis9.github.io/Nyan-FA/langs/${lang}.html`
+        let lang = this.value
+        window.location.href = `https://exis9.github.io/Nyan-FA/langs/${lang}.html`
     })
 }

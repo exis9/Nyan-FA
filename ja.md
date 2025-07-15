@@ -1,5 +1,4 @@
-<div style="background-color:#333;color:#fff">
-Nyan-FAのダウンロードはこちらから！！！
+Nyan-FAのダウンロードはこちらから！
 
 Nyan-FAは、MacとWindows向けの**100000%無料ですごい2FA（二段階認証）アプリ**です。WinAuthやGoogle Authenticatorとも互換性があります。
 
@@ -62,7 +61,7 @@ Windowsユーザーの場合、Nyan-FAはMicrosoftストアに登録していな
 （この操作は初回のみ必要です。次回からはAppleといえどももはやあなたを邪魔することはありません。）
 
 <img width="302" height="267" alt="Mac Not Opened Problem" src="https://github.com/user-attachments/assets/95864ee1-b552-4c50-915a-4919846b0412" />
-</div>
+
 
 ```
 1. システム設定を開き、「プライバシーとセキュリティ」をクリックします。

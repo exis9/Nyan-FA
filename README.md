@@ -4,7 +4,7 @@ A 100% Free Amazing 2FA app for Mac and Windows!
 Compatible with WinAuth and Google Authenticator.
 
 ## [✅️ For Windows: Download Ver 1.02 (exe)](https://github.com/exis9/Nyan-FA/releases/download/v1.0.2(Windows)/Nyan-FA-1.0.2.exe)
-## [✅️ For Mac: Download Ver 1.02 (dmg)](https://github.com/exis9/Nyan-FA/releases/download/v1.0.1(Mac)/Nyan-FA-1.0.2.dmg)
+## [✅️ For Mac: Download Ver 1.02 (dmg)](https://github.com/exis9/Nyan-FA/releases/download/v1.02(Mac)/Nyan-FA-1.0.2.dmg)
 
 <img width="343" height="644" alt="NyanFA 2FA Authenticator for Mac. WinAuth Alternative" src="https://github.com/user-attachments/assets/0efe9952-ee1a-4f2a-a3cf-39b49a73e7de" />
 

@@ -1,3 +1,5 @@
+[<small>Japanese(日本語)</small>](https://exis9.github.io/Nyan-FA/ja.html)
+
 # Download (Nyan-FA)
 
 A 100% Free Amazing 2FA app for Mac and Windows!

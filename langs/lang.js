@@ -45,10 +45,39 @@ let currentLang = window.location.pathname.split('/').pop().split('.')[0];
 document.querySelector('.cSelLang').value = currentLang;
 
 
+// append hoomepage link
+let h_hp = `<div class="cHomeLink"><a href="https://beta-japan.com/exis/">TOP</a></div>`;
+document.getElementById('idCont').insertAdjacentHTML('beforeend', h_hp);
+
+
+// localStorageに、lang値が保存されていたらそのページにリダイレクト。
+// されていないならブラウザの言語設定を取得して、cSelLang内に存在すれば対応する言語ページにリダイレクト
+let _lang = localStorage.getItem('lang') || (navigator.language || navigator.userLanguage)
+if ( _lang )
+{
+    // langがen-USとかならenに変換。ただし、zh-TWとかzh-CNはzh-tw、zh-cnに変換
+    if (_lang.startsWith('zh-'))
+        _lang = _lang.toLowerCase();
+    else
+        _lang = _lang.split('-')[0].toLowerCase();
+
+    console.log(`Redirecting to ${_lang} page...`);
+    // cSelLangのvalueに_langがあれば、そのページにリダイレクト
+    if (document.querySelector(`.cSelLang option[value="${_lang}"]`))
+    {
+        // 現在のページの言語と同じなら何もしない
+        if (currentLang !== _lang)
+            window.location.href = `https://exis9.github.io/Nyan-FA/langs/${_lang}.html`;
+    }
+}
+
+
 // envents
 {
     document.querySelector('.cSelLang').addEventListener('change', function() {
         let lang = this.value
+        // langをlocalStorageに保存
+        localStorage.setItem('lang', lang);
         window.location.href = `https://exis9.github.io/Nyan-FA/langs/${lang}.html`
     })
 }

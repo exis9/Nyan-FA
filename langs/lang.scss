@@ -3,7 +3,7 @@ img {max-width: 90%}
 html {background-color: #1a1a1a}
 body {
     font-family: "Helvetica Neue","Helvetica","Arial","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック","SimSun","Microsoft YaHei",sans-serif !important;
-    padding: 40px 20px;
+    padding: 50px 20px;
     background-color: #1a1a1a;
     color: #f0f0f0;
     line-height: 1.75;
@@ -49,4 +49,14 @@ code, pre {
     padding: 5px;
     font-size: 16px;
     width: 200px;
+}
+
+.cHomeLink {
+  margin: 20px 0 0 0;
+  text-align: left;
+  font-size: 18px;
+  a {
+    color: #88ccff;
+    text-decoration: none;
+  }
 }

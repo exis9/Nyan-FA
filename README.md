@@ -11,8 +11,9 @@
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ru.html?f" target=_blank><small>Russian(Русский)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ar.html?f" target=_blank><small>Arabic(عربي)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/hi.html?f" target=_blank><small>Hindi(हिन्दी)</small></a></p>
-<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/id.html?f" target=_blank><small>Indonesian(Bahasa Indonesia)</small></a></p>
-<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/sv.html?f" target=_blank><small>Swedish(Svenska)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/fi.html?f" target=_blank><small>Finnish(Suomi)</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/id.html?f" target=_blank><small>Indonesian(Bahasa Indonesia)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/ms.html?f" target=_blank><small>Malay(Bahasa Melayu)</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/vi.html?f" target=_blank><small>Vietnamese(Tiếng Việt)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/th.html?f" target=_blank><small>Thai(ไทย)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/tl.html?f" target=_blank><small>Tagalog</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/sv.html?f" target=_blank><small>Swedish(Svenska)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/fi.html?f" target=_blank><small>Finnish(Suomi)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/no.html?f" target=_blank><small>Norwegian(Norsk)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/pl.html?f" target=_blank><small>Polish(Polski)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/tr.html?f" target=_blank><small>Turkish(Türkçe)</small></a></p>
 </details>

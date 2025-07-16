@@ -36,11 +36,8 @@ let h = `
 <option value="tr">Turkish - Türkçe</option>
 <option value="hi">Hindi - हिन्दी</option>
 <option value="id">Indonesian - Bahasa Indonesia</option>
-<!--option value="vi">Vietnamese - Tiếng Việt</option>
+<option value="vi">Vietnamese - Tiếng Việt</option>
 <option value="th">Thai - ไทย</option>
-<option value="bn">Bengali - বাংলা</option>
-<option value="ur">Urdu - اردو</option>
-<option value="he">Hebrew - עברית</option>
 <option value="cs">Czech - Čeština</option>
 <option value="ro">Romanian - Română</option>
 <option value="hu">Hungarian - Magyar</option>
@@ -50,10 +47,13 @@ let h = `
 <option value="sk">Slovak - Slovenčina</option>
 <option value="sl">Slovenian - Slovenščina</option>
 <option value="hr">Croatian - Hrvatski</option>
-<option value="sr">Serbian - Српски</option>
+<!--option value="sr">Serbian - Српски</option>
 <option value="lt">Lithuanian - Lietuvių</option>
 <option value="lv">Latvian - Latviešu</option>
 <option value="et">Estonian - Eesti</option>
+<option value="bn">Bengali - বাংলা</option>
+<option value="ur">Urdu - اردو</option>
+<option value="he">Hebrew - עברית</option>
 <option value="ms">Malay - Bahasa Melayu</option>
 <option value="fil">Filipino - Filipino</option>
 <option value="sw">Swahili - Kiswahili</option>
@@ -69,6 +69,9 @@ document.body.insertAdjacentHTML('afterbegin', h);
 
 // 現在のURLで、ファイル名がja.htmlとかならcSelLangのvalueはjaにする
 let currentLang = window.location.pathname.split('/').pop().split('.')[0];
+// クエリーがあれば、無視
+if (currentLang.includes('?'))
+    currentLang = currentLang.split('?')[0];
 document.querySelector('.cSelLang').value = currentLang;
 
 
@@ -77,10 +80,16 @@ let h_hp = `<div class="cHomeLink"><a href="https://beta-japan.com/exis/">TOP</a
 document.getElementById('idCont').insertAdjacentHTML('beforeend', h_hp);
 
 
+// クエリーfがあれば取得
+let bForceLang = false
+let urlParams = new URLSearchParams(window.location.search)
+if (urlParams.has('f'))
+    bForceLang = true;
+
 // localStorageに、lang値が保存されていたらそのページにリダイレクト。
 // されていないならブラウザの言語設定を取得して、cSelLang内に存在すれば対応する言語ページにリダイレクト
 let _lang = localStorage.getItem('lang') || (navigator.language || navigator.userLanguage)
-if ( _lang )
+if ( !bForceLang && _lang )
 {
     // langがen-USとかならenに変換。ただし、zh-TWとかzh-CNはzh-tw、zh-cnに変換
     if (_lang.startsWith('zh-'))

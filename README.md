@@ -3,7 +3,7 @@
 
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/en.html" target=_blank><small>English</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/ja.html" target=_blank><small>Japanese(日本語)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/ko.html" target=_blank><small>Korean(한국어)</small></a></p>
-<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/zh.html?fl" target=_blank><small>Simplified Chinese(简体中文)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/zh-tw.html" target=_blank><small>Traditional Chinese(繁體中文)</small></a></p>
+<p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/zh.html?f" target=_blank><small>Simplified Chinese(简体中文)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/zh-tw.html" target=_blank><small>Traditional Chinese(繁體中文)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/es.html" target=_blank><small>Spanish(Español)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/pt.html" target=_blank><small>Portuguese(Português)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/fr.html" target=_blank><small>French(Français)</small></a></p>
 <p>　🔷 <a href="https://exis9.github.io/Nyan-FA/langs/de.html" target=_blank><small>German(Deutsch)</small></a>　|　<a href="https://exis9.github.io/Nyan-FA/langs/nl.html" target=_blank><small>Dutch(Nederlands)</small></a></p>
